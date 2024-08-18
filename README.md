@@ -21,19 +21,19 @@ O objetivo do FinanceManager é permitir que os usuários:
    - **Saldo Atual**: Veja o saldo total das suas finanças em tempo real.
    - **Resumo Mensal**: Visualize um resumo das receitas e despesas do mês.
 
-### 3. **Orçamento**
+### 3. **Orçamento** (Futuras atualizações)
    - **Definir Orçamento**: Estabeleça limites de gastos para diferentes categorias e monitorize seu progresso.
    - **Alertas de Orçamento**: Receba notificações quando estiver próximo de atingir os limites estabelecidos.
 
-### 4. **Gestão de Categorias**
+### 4. **Gestão de Categorias** (Futuras atualizações)
    - **Categorias Personalizáveis**: Crie, edite e remova categorias de despesas e receitas conforme sua necessidade.
    - **Relatórios por Categoria**: Visualize gráficos e relatórios detalhados de gastos por categoria.
 
-### 5. **Segurança**
+### 5. **Segurança** (Futuras atualizações)
    - **Autenticação Biométrica**: Proteja seu aplicativo com reconhecimento de impressão digital ou facial.
    - **Backup e Restauração**: Realize backups de suas finanças e restaure-os quando necessário.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadass (Futuras atualizações)
 
 - **Frontend**: React Native
 - **Backend**: Node.js
